@@ -1,4 +1,4 @@
-# Hi there, I'm Greg! 👋
+# Hi there 👋
 
 I'm a Lead Data Scientist & Machine Learning Engineer with 8+ years of experience turning raw data into actionable insights and scalable solutions. Based in Athens, Greece, I mix innovative ML techniques with practical business strategy to drive growth and operational excellence.
 
