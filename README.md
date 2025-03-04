@@ -43,7 +43,7 @@ I'm a Lead Data Scientist & Machine Learning Engineer with 8+ years of experienc
 
 ## Awards & Fun Facts 🏆
 
-- 🥇 Winner of the 1st Prize Award in the EYDAP Innovation Challenge (Mar 2022) for predicting defective water meters using ML.
+- 🥇 Winner of the 1st Prize Award in the EYDAP Innovation Challenge for predicting defective water meters using ML.
 - When I'm not immersed in data, you'll find me playing tennis 🎾 or savoring a great cup of coffee!
 
 ## Let's Connect 🤝
