@@ -11,7 +11,14 @@ I'm a Lead Data Scientist & Machine Learning Engineer with 8+ years of experienc
 
 ## Experience Highlights ✨
 
-- **Lead Data Scientist @ RenoFi (Dec 2022 - Present)**
+- **Founder @ Tweener AI (Dec 2022 - Present)**
+  - Founded Tweener AI, a consultancy delivering fast, production-ready ML to startups and enterprise teams.
+  - Built Blockchain Analyzer, an end-to-end Python toolkit for analyzing blockchain transactions using clustering, anomaly detection, and network analysis.
+  - Developed Stock AI Investor, an autonomous LLM-powered stock advisor using RAG pipelines and real-time data to provide personalized investment recommendations via a streamlined UI.
+  - Created DeFi-Bet-Market, a decentralized Ethereum-based prediction market enriched with AI-driven decision engines to support smarter, trustless betting.
+  - Engineered Ship AI Agent, an LLM-based assistant that ingests technical ship manuals and delivers precise, context-aware responses to engineering queries using document parsing and embedding search.
+
+- **Lead Data Scientist @ RenoFi (Dec 2022 - Jan 2025)**
   - Pioneered an LLM-based chatbot to enhance customer engagement.
   - Led a dynamic team to develop robust ML pipelines that drive revenue and streamline operations.
 
@@ -43,7 +50,7 @@ I'm a Lead Data Scientist & Machine Learning Engineer with 8+ years of experienc
 
 ## Awards & Fun Facts 🏆
 
-- 🥇 Winner of the 1st Prize Award in the EYDAP Innovation Challenge for predicting defective water meters using ML.
+- Winner of the 1st Prize Award in the EYDAP Innovation Challenge for predicting defective water meters using ML.
 - When I'm not immersed in data, you'll find me playing tennis 🎾 or savoring a great cup of coffee!
 
 ## Let's Connect 🤝
