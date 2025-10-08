@@ -11,6 +11,8 @@ I'm a Lead Data Scientist & Machine Learning Engineer with 8+ years of experienc
 
 ## Experience Highlights ✨
 
+- **ML Engineer @ Meta (June 2025 - Present)**
+
 - **Founder @ Tweener AI (Dec 2022 - Present)**
   - Founded Tweener AI, a consultancy delivering fast, production-ready ML to startups and enterprise teams.
   - Built Blockchain Analyzer, an end-to-end Python toolkit for analyzing blockchain transactions using clustering, anomaly detection, and network analysis.
